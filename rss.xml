@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stefan on software development, process and professionalism]]></title>
+        <description><![CDATA[Stefan on software development, process and professionalism]]></description>
+        <link>https://thegrid.ai/stefanhoth/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 09 Oct 2015 19:32:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stefanhoth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hug a developer today...]]></title>
+            <description><![CDATA[<article><h1>Hug a developer today...</h1><p>An ode to developers everywhere...</p><img src="https://i.ytimg.com/vi/1lqxORnQARw/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=1lqxORnQARw</link>
+            <guid isPermaLink="false">506ed26a-1cfc-4b78-b4e0-6f715a561b2e</guid>
+            <pubDate>Fri, 09 Oct 2015 19:31:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using GitHub as a personal maven repository]]></title>
+            <description><![CDATA[<article><h1>Using GitHub as a personal maven repository</h1><p>Sometime you are in need for a maven repository accessible from the net which is under your control. Reasons might be: a 3rd-party lib is not on Maven central or the desired version is missing you built modules/libraries which will be included in your other projects ...</p><img src="https://s0.wp.com/i/blank.jpg"></article>]]></description>
+            <link>http://coffeecoders.de/2011/09/using-github-as-a-personal-maven-repository/</link>
+            <guid isPermaLink="false">f13cf2e2-fbbc-4163-a899-72cc53360dae</guid>
+            <pubDate>Fri, 09 Oct 2015 19:25:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
